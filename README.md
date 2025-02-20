@@ -39,14 +39,6 @@ Az összes (ugyan azon verzióhoz tartozó) contribution meg fog jelenni a relea
 
 # Team
 
-**kima:** head developer / project manager
-
-**Reiner, pdf, Pearoo, Zizi:** community- and project manager / developer
-
-**vrolandd, TMarccci:** head developer
-
-**dwe., xou:** designer
-
-**Péter:** video editor
+**kima, SM_Mester:** head developer / project manager
 
 <em>**annon:** a régi Filc Napló fejlesztője (ez az app, ha bár sokban változott, alapjaiban a Filc-re épül)</em>
